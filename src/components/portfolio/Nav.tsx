@@ -33,7 +33,7 @@ export function Nav() {
         className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4 sm:px-8"
       >
         <a href="#top" className="font-display text-sm font-semibold tracking-tight">
-          Saivardhan Portfolio<span className="text-primary">.</span>
+          Saivardhan Portfolio
         </a>
 
         <ul className="hidden items-center gap-7 text-sm md:flex">
