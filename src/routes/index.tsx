@@ -11,7 +11,6 @@ import {
   GraduationCap,
   Languages,
   Linkedin,
-  Mail,
   MapPin,
   Network,
   Sparkles,
@@ -520,7 +519,6 @@ function Portfolio() {
             {[
               { href: GITHUB, label: "GitHub", icon: Github },
               { href: LINKEDIN, label: "LinkedIn", icon: Linkedin },
-              { href: "mailto:", label: "Email", icon: Mail },
             ].map(({ href, label, icon: Icon }) => (
               <li key={label}>
                 <a
